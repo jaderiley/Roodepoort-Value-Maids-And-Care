@@ -208,6 +208,10 @@ const CONFIG = {
     // ─── CONTACT ───────────────────────────────────────────
     contactTitle: "Tell us what needs cleaning.",
     contactLead:  "Let us know the property size, what you need and how often. We will reply with availability and a quote.",
-    contactPlaceholder: "e.g. 3-bedroom house, weekly cleaning, first deep clean needed"
+    contactPlaceholder: "e.g. 3-bedroom house, weekly cleaning, first deep clean needed",
+
+    // ─── CLOSING CTA BAND ──────────────────────────────────
+    ctaBannerTitle: "Need it spotless <em>by the weekend?</em>",
+    ctaBannerSub:   "One message and we'll schedule your clean."
   }
 };
